@@ -1,0 +1,10 @@
+.para{
+transform:perspective(800px) rotateY(-20deg)
+scale(.75) scalex(1.3) translateX(-20px);
+
+}
+
+.para1{
+    transform:perspective(800px) rotatey(20deg)
+    scale(.75) scalex(1.3) translateX(20px);
+}
